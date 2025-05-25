@@ -27,16 +27,11 @@ API em C# (.NET 7) para controlar motos no pátio. Funciona com banco SQLite (de
 
 ### Como usar
 
-1. Clonar repo:  
-   `git clone <url-do-repo>`
-2. Entrar na pasta:  
-   `cd ControlePatioAPI`
-3. Restaurar pacotes:  
-   `dotnet restore`
-4. Criar banco (SQLite dev):  
-   `dotnet ef database update`
-5. Rodar projeto:  
-   `dotnet run`
-6. Abrir Swagger para testar:  
-   `https://localhost:5001/swagger/index.html`
+1. Clonar repo
+2. Entrar na pasta
+3. Restaurar pacotes  
+4. Criar banco (SQLite dev)
+5. Rodar projeto 
+  
+
 
